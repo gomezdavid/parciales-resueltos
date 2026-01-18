@@ -22,7 +22,7 @@ Repositorio con mis resoluciones de parciales de Paradigma de Objetos usando Wol
 ## 🔧 Tecnologías
 
 - **Lenguaje:** Wollok
-- **IDE:** Wollok IDE / Eclipse
+- **IDE:** Wollok IDE / VS Code
 
 ## 📝 Estructura
 
@@ -30,7 +30,7 @@ Cada parcial está en su propia carpeta con el código fuente, tests y documenta
 
 ## 👤 Autor
 
-David Gomez - Estudiante de Paradigmas de Programación
+David Alejandro Gómez Ferreira
 
 ---
 
