@@ -4,9 +4,9 @@ Repositorio con mis resoluciones de parciales de Paradigma de Objetos usando Wol
 
 ## 📋 Parciales resueltos
 
-| Fecha | Nombre | Conceptos principales |
-|-------|--------|----------------------|
-| Nov 2017 | [Fiesta de Disfraces](./disfraces/) | Composición, Polimorfismo, Template Method, Strategy, Composite |
+| Fecha | Nombre | Conceptos principales | enunciado |
+|-------|--------|----------------------|--------------|
+| Nov 2017 | [Fiesta de Disfraces](./disfraces/) | Composición, Polimorfismo, Template Method, Strategy, Composite | [Link(https://docs.google.com/document/d/15GSlTJnE2B4w43FAofSYShbJI0BdpWhsYiysEZFShoY/edit?tab=t.0)]
 
 ## 🎯 Conceptos cubiertos
 
