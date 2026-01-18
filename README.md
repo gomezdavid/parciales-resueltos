@@ -4,9 +4,9 @@ Repositorio con mis resoluciones de parciales de Paradigma de Objetos usando Wol
 
 ## 📋 Parciales resueltos
 
-| Fecha | Nombre | Conceptos principales | enunciado |
-|-------|--------|----------------------|--------------|
-| Nov 2017 | [Fiesta de Disfraces](./disfraces/) | Composición, Polimorfismo, Template Method, Strategy, Composite | [Link(https://docs.google.com/document/d/15GSlTJnE2B4w43FAofSYShbJI0BdpWhsYiysEZFShoY/edit?tab=t.0)]
+| Fecha | Nombre | Conceptos principales | Enunciado |
+|-------|--------|----------------------|-----------|
+| Nov 2017 | [Fiesta de Disfraces](./disfraces/) | Composición, Polimorfismo, Template Method, Strategy, Composite | [Ver enunciado](https://docs.google.com/document/d/15GSlTJnE2B4w43FAofSYShbJI0BdpWhsYiysEZFShoY/edit?tab=t.0) |
 
 ## 🎯 Conceptos cubiertos
 
@@ -22,7 +22,7 @@ Repositorio con mis resoluciones de parciales de Paradigma de Objetos usando Wol
 ## 🔧 Tecnologías
 
 - **Lenguaje:** Wollok
-- **IDE:** Wollok IDE / VS Code
+- **IDE:** Wollok IDE / Eclipse
 
 ## 📝 Estructura
 
@@ -30,7 +30,7 @@ Cada parcial está en su propia carpeta con el código fuente, tests y documenta
 
 ## 👤 Autor
 
-David Alejandro Gómez Ferreira
+David Gomez - Estudiante de Paradigmas de Programación
 
 ---
 
