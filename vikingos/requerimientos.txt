@@ -1,0 +1,10 @@
+vikingos se dividen en castas:
+-nobles
+-castamedia
+-esclavos
+
+vikingos (de cualquier casta) pueden ser:
+-soldados
+-granjeros
+
+expediciones de vikingos

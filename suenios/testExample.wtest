@@ -1,0 +1,28 @@
+import suenios.*
+
+test "Que no se pueda cumplir suenio multiple genera una excepcion" {
+  const suenio1 = new ViajarA(destino = "cataratas", felicidonios = 100)
+  const suenio2 = new TenerHijos(cantidad = 1, felicidonios = 100)
+  const suenio3 = new ConseguirUnLaburoDondeSeGaneXCantidadDePlata(
+    sueldo = 10000,
+    felicidonios = 100
+  )
+  
+  const persona = new Persona(
+    suenios = [],
+    edad = 18,
+    carrerasQueQuiereEstudiar = [],
+    plataQueQuiereGanar = 700,
+    lugaresAViajar = [],
+    tieneHijos = false,
+    sueniosCumplidos = [],
+    tipoPersona = realista,
+    felicidad = 100
+  )
+  
+  const suenioMultiple = new SuenioMultiple(
+    listaDeSuenios = [suenio1, suenio2, suenio3]
+  )
+  
+  assert.throwsException({ persona.cumplirSuenio(suenioMultiple) })
+}
